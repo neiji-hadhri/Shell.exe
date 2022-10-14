@@ -1,0 +1,5 @@
+total 12
+drwxr-xr-x  2 neiji neiji 4096 10 oct.  11:59 .
+drwxr-xr-x 11 neiji neiji 4096 10 oct.  11:07 ..
+-rwx------  1 neiji neiji   23 10 oct.  11:47 argument.sh
+-rw-r--r--  1 neiji neiji    0 10 oct.  11:59 copyfile.txt

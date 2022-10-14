@@ -1,0 +1,18 @@
+if [ "sum" = "$1+$2" ] 
+        then
+        echo "sum"
+fi 
+
+if [ "sum" = "$1*$2" ]
+        then
+        echo "sum"
+fi
+if [ "sum" = "$1/$2" ] 
+        then
+        echo "sum"
+fi 
+
+if [ "sum" = "$1-$2" ]
+        then
+        e"
+fi
